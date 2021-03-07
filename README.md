@@ -7,4 +7,4 @@ http://demo.testarena.pl/zaloguj
 # Test account login details
 
 Login: administrator@testarena.pl
-Hasło: sumXQQ72$L
+Password: sumXQQ72$L
